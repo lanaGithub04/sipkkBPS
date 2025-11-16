@@ -1,0 +1,288 @@
+2025-11-05 04:34:01 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Tidak ada data!"
+}
+2025-11-05 04:34:23 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Tidak ada data!"
+}
+2025-11-05 04:34:33 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Tidak ada data!"
+}
+2025-11-05 04:34:35 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Tidak ada data!"
+}
+2025-11-05 08:01:51 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:05:15 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:20:46 | Kirim ke 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:20:46 | WA ke: 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:51:39 | Kirim ke 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:51:39 | WA ke: 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:52:37 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:55:55 | Kirim ke 6281549112543 | {"result":"true","message":" 6281549112543 error "}
+2025-11-05 08:56:55 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:57:08 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke  disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:57:29 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke  disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:57:53 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke {\n    \"result\": \"false\",\n    \"message\": \"Tidak ada data!\"\n} disimpan (tidak terkirim ke WA)"}
+2025-11-05 08:59:59 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:11:30 | Kirim ke 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:11:30 | WA ke: 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:11:31 | Kirim ke 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:11:31 | WA ke: 6281257571414 | {"result":"true","message":"Simulasi: Pesan ke 6281257571414 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:22:39 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:23:02 | Kirim ke 6281549112543 | {"result":"true","message":"Simulasi: Pesan ke 6281549112543 disimpan (tidak terkirim ke WA)"}
+2025-11-05 09:24:45 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Token salah!"
+}
+2025-11-05 09:25:19 | Kirim ke 6281549112543 | {
+    "result": "false",
+    "message": "Token salah!"
+}
+2025-11-05 09:31:40 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5F47C6BFACC27",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:28:31 | Kirim ke 6281257571414 | {
+    "result": "true",
+    "id": "BAE575ACC4099274",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:28:31 | WA ke: 6281257571414 | {
+    "result": "true",
+    "id": "BAE575ACC4099274",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:29:57 | Kirim ke 6281257571414 | {
+    "result": "true",
+    "id": "BAE574CE51C3FAE0",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:29:57 | WA ke: 6281257571414 | {
+    "result": "true",
+    "id": "BAE574CE51C3FAE0",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:55:38 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE50F0761C0E47E",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:55:38 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE50F0761C0E47E",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:56:45 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE510E6A1707234",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 02:56:45 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE510E6A1707234",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:15:56 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE53FD0BFC4EC71",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:15:56 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE53FD0BFC4EC71",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:17:48 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5FECB3ECA78D3",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:17:48 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5FECB3ECA78D3",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:32:14 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5AC92DD06FFBD",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:32:14 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5AC92DD06FFBD",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:33:57 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5CAA4E7CB186A",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 03:33:57 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5CAA4E7CB186A",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:03:00 | Kirim ke 6281257571414 | {
+    "result": "true",
+    "id": "BAE505717E23C799",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:03:00 | WA ke: 6281257571414 | {
+    "result": "true",
+    "id": "BAE505717E23C799",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:05:10 | Kirim ke 6281257571414 | {
+    "result": "true",
+    "id": "BAE5E77F5DC76A62",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:05:10 | WA ke: 6281257571414 | {
+    "result": "true",
+    "id": "BAE5E77F5DC76A62",
+    "number": "6281257571414",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:05:40 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5E109B2A45A88",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:05:40 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5E109B2A45A88",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:06:49 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5FE1DDAFC17E9",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:06:49 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5FE1DDAFC17E9",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:56:46 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5ECF41E11D549",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-06 07:56:46 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5ECF41E11D549",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:44:28 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5322F6322F2DF",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:44:28 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5322F6322F2DF",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:50:34 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5ED90B0DE40E3",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:50:34 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5ED90B0DE40E3",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:56:01 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5353174274DD0",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-10 04:56:01 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5353174274DD0",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-11 03:21:44 | Kirim ke 6281549112543 | {
+    "result": "true",
+    "id": "BAE5F747AD8E1792",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}
+2025-11-11 03:21:44 | WA ke: 6281549112543 | {
+    "result": "true",
+    "id": "BAE5F747AD8E1792",
+    "number": "6281549112543",
+    "message": "Kirim pesan sukses!",
+    "status": "sent"
+}

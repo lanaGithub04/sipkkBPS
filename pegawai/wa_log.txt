@@ -1,0 +1,814 @@
+{"detail":"success! message in queue","id":[128523916],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":998,"remaining":997,"used":1}},"requestid":182226478,"status":true,"target":["6281549112543"]}
+{"detail":"success! message in queue","id":[128524376],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":997,"remaining":996,"used":1}},"requestid":182232887,"status":true,"target":["6281549112543"]}
+{"reason":"something wrong on save message","requestid":182248078,"status":false}
+{"detail":"success! message in queue","id":[128524759],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":996,"remaining":995,"used":1}},"requestid":182255130,"status":true,"target":["6281549112543"]}
+{"detail":"success! message in queue","id":[128525937],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":995,"remaining":994,"used":1}},"requestid":182263214,"status":true,"target":["6281549112543"]}
+{"detail":"success! message in queue","id":[128527671],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":994,"remaining":993,"used":1}},"requestid":182275249,"status":true,"target":["6281549112543"]}
+{"detail":"success! message in queue","id":[128527855],"process":"pending","quota":{"6281549112543":{"details":"deduced from total quota","quota":993,"remaining":992,"used":1}},"requestid":182277290,"status":true,"target":["6281549112543"]}
+2025-11-05 02:22:26 | 6281549112543 | Halo Akhmad! Tes kirim pesan WhatsApp dari sistem SIPKK berhasil 🎉 | {"reason":"invalid token","status":false}
+2025-11-05 02:40:34 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:42:02 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:42:03 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:01 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:02 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:02 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:03 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:03 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:03 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:03 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:04 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:46:04 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 02:47:17 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+2025-11-05 03:11:24 | 6281234567890 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *nazia*
+🚗 Kendaraan: *Terios* (DA 1615 JT)
+📍 Tujuan: *Kota Banjarmasin*
+📅 Tgl Pinjam: *2025-11-05* (10:11)*
+📅 Tgl Kembali: *2025-11-05* (14:15)*
+📝 Keperluan: tes wa masuk ga nya
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:11:24 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:16:13 | 6285821850135 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *nazia*
+🚗 Kendaraan: *Honda Supra* (DA 2034 NZ)
+📍 Tujuan: *Kabupaten Banjar*
+📅 Tgl Pinjam: *2025-11-05* (10:15)*
+📅 Tgl Kembali: *2025-11-05* (14:19)*
+📝 Keperluan: tes wa
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:16:13 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:19:24 | 6281549112543 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *nazia*
+🚗 Kendaraan: *Honda Supra* (DA 2034 NZ)
+📍 Tujuan: *Kabupaten Banjar*
+📅 Tgl Pinjam: *2025-11-05* (10:15)*
+📅 Tgl Kembali: *2025-11-05* (14:19)*
+📝 Keperluan: tes wa
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:19:24 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:20:57 | 6281549112543 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *Akhmad Maulana*
+🚗 Kendaraan: *Hilux* (DA 8182 PT)
+📍 Tujuan: *Kabupaten Barito Kuala*
+📅 Tgl Pinjam: *2025-11-05* (11:21)*
+📅 Tgl Kembali: *2025-11-05* (15:25)*
+📝 Keperluan: tes wa\r\n
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:20:57 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:22:30 | 6281549112543 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *Akhmad Maulana*
+🚗 Kendaraan: *Hilux* (DA 8182 PT)
+📍 Tujuan: *Kabupaten Barito Kuala*
+📅 Tgl Pinjam: *2025-11-05* (11:21)*
+📅 Tgl Kembali: *2025-11-05* (15:25)*
+📝 Keperluan: tes wa\r\n
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:22:30 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:23:22 | 6281549112543 | 📢 *Peminjaman Baru Diajukan*
+
+👤 Pegawai: *Akhmad Maulana*
+🚗 Kendaraan: *Honda Supra* (DA 2034 NZ)
+📍 Tujuan: *Kabupaten Balangan*
+📅 Tgl Pinjam: *2025-11-05* (10:23)*
+📅 Tgl Kembali: *2025-11-05* (13:26)*
+📝 Keperluan: tes 1
+
+Silakan cek detail di *Sistem SIPKK*. | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:23:22 | Notif WA ke admin | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:42:01 | 6281549112543 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 03:42:27 | 6281549112543 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | <!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themekita.com/demo-atlantis-bootstrap/livepreview/examples/demo1/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Mar 2021 12:23:49 GMT -->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>404</title>
+	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+	<link rel="icon" href="https://app.waconnect.id/assets/img/icon.ico" type="image/x-icon"/>
+
+	<!-- Fonts and icons -->
+	<script src="https://app.waconnect.id/assets/js/plugin/webfont/webfont.min.js"></script>
+	<script>
+		WebFont.load({
+			google: {"families":["Lato:300,400,700,900"]},
+			custom: {"families":["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands", "simple-line-icons"], urls: ['https://app.waconnect.id/assets/css/fonts.min.css']},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/atlantis.css">
+
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+	<link rel="stylesheet" href="https://app.waconnect.id/assets/css/demo.css">
+</head>
+<body class="page-not-found">
+	<div class="wrapper not-found">
+		<h1 class="animated fadeIn">404</h1>
+		<div class="desc animated fadeIn"><span>OOPS!</span><br/>Looks like you get lost</div>
+		<a href="https://app.waconnect.id/" class="btn btn-primary btn-back-home mt-4 animated fadeInUp">
+			<span class="btn-label mr-2">
+				<i class="flaticon-home"></i>
+			</span>
+			Back To Home
+		</a>
+	</div>
+	<script src="https://app.waconnect.id/assets/js/core/jquery.3.2.1.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/popper.min.js"></script>
+	<script src="https://app.waconnect.id/assets/js/core/bootstrap.min.js"></script>
+</body>
+</html>
+2025-11-05 04:02:44 | 6285821850135 | Halo Akhmad! Tes kirim WhatsApp dari WaConnect berhasil 🚀 | {
+    "result": "false",
+    "message": "Tidak ada data!"
+}
